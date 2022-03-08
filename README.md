@@ -1,1 +1,1 @@
-# JS-lanjutan2
+Masih bingung implementasiin OOP gan
